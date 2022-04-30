@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview
-This project analyzes the data from Amazon Vine book reviews using pyspark, python, and pandas. More specifically, it looks at if there is any bias toward favorable reviews from vine members who are required to publish a review versus non-vine members. 
+This project analyzes the data from Amazon Vine book reviews using pyspark, python, pandas, and postgresql. More specifically, it looks at if there is any bias toward favorable reviews from vine members who are required to publish a review versus non-vine members. 
 
 ## Results 
 
